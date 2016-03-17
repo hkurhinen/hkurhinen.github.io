@@ -9,26 +9,25 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+title:               Belvain's Blog
+tagline:             
+description:         'Stories about my projects and other random things.'
+url:                 http://localhost:4000
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:              Heikki Kurhinen
+  url:               
+  email:             heikki.kurhinen@gmail.com
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
-disqus:             testnaringu
+github:				https://github.com/hkurhinen
+twitter:			
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
